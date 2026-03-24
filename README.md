@@ -1,6 +1,6 @@
 # Hi, I'm Hemant 👋
 
-🚀 DevOps & Cloud Learner | MERN Stack Developer  
+🚀 DevOps & Cloud Learner 
 📌 Currently doing **90 Days of DevOps Challenge**
 
 ---
