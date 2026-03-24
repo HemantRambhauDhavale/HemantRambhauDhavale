@@ -40,10 +40,10 @@
 
 ## 📂 Featured Work
 
-- 🔹 90 Days of DevOps → Daily hands-on learning  
-- 🔹 DevOps Notes → Commands, cheat sheets, and concepts  
-- 🔹 Shell Scripts → Automation scripts  
-- 🔹 Python Scripts → Practice projects  
+- 90 Days of DevOps → Daily hands-on learning  
+- DevOps Notes → Commands, cheat sheets, and concepts  
+- Shell Scripts → Automation scripts  
+- Python Scripts → Practice projects  
 
 ---
 
