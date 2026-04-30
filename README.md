@@ -5,6 +5,7 @@
   <p>
     <a href="https://www.linkedin.com/in/hemant-dhavale-391a47353/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:hemantdhavale2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://hashnode.com/@HemantRambhauDhavale"><img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode"></a>
   </p>
 </div>
 
