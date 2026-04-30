@@ -5,14 +5,14 @@
   <p>
     <a href="https://www.linkedin.com/in/hemant-dhavale-391a47353/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:hemantdhavale2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://hashnode.com/@HemantRambhauDhavale"><img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="Hashnode"></a>
+    <a href="https://hashnode.com/@HemantRambhauDhavale"> <img src="https://img.shields.io/badge/Blogs-2962FF?logo=hashnode&logoColor=white" alt="Hashnode Blog"> </a>
   </p>
 </div>
 
 ---
 
 ### 🏆 The Winning Streak
-*   **NASA Space Apps Challenge** – Global Winner 🚀
+*   **NASA Space Apps Challenge** – Winner 🚀
 *   **Build with AI (GDG Cloud Pune)** – Cloud Innovation Winner ☁️
 *   **Innovyuh Hackathon** – Solution Challenge Winner 💡
 *   **Project Innovista** – Research & Project Excellence 🔬
@@ -20,10 +20,30 @@
 
 ---
 
+## 💻 What I'm Doing
+
+- Learning DevOps step by step  
+- Practicing Linux, Git, and Cloud tools  
+- Building real-world projects  
+- Sharing daily progress on GitHub & LinkedIn  
+
+---
+
 ### 🚀 Currently Processing...
-- 🔭 **Project Resumind:** Architecting an AI-powered resume analyzer.
 - 📅 **#90DaysOfDevOps:** Documenting daily cloud labs and automation.
 - ✍️ **Tech Blogging:** Translating complex SRE concepts into readable guides.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hemant-dhavale-391a47353/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hemantdhavale2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hashnode.com/@HemantRambhauDhavale"><img src="https://img.shields.io/badge/Blogs-2962FF?logo=hashnode&logoColor=white" alt="Blogs"></a>
+  <a href="https://www.instagram.com/hemant.decoded/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.link/4oteuh"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 ---
 
@@ -38,6 +58,23 @@
 
 ---
 
+## 📂 Featured Work
+
+- 90 Days of DevOps → Daily hands-on learning  
+- DevOps Notes → Commands, cheat sheets, and concepts  
+- Shell Scripts → Automation scripts  
+- Python Scripts → Practice projects  
+
+---
+
+## 📈 Current Focus
+
+- DevOps & Cloud Computing  
+- CI/CD & Automation  
+- Real-world project building  
+
+---
+
 ### 📊 Performance Metrics
 
 <div align="center">
@@ -48,6 +85,16 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=HemantRambhauDhavale&theme=dark&hide_border=true" width="87%" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HemantRambhauDhavale&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HemantRambhauDhavale&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantRambhauDhavale&theme=dark&hide_border=true&layout=compact)
 
 ---
 
