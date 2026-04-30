@@ -77,13 +77,13 @@
 
 ### 📊 Performance Metrics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HemantRambhauDhavale&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantRambhauDhavale&theme=dark&hide_border=true&layout=compact" width="38%" />
-</div>
+</p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HemantRambhauDhavale&theme=dark&hide_border=true" width="87%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantRambhauDhavale&theme=dark&hide_border=true" width="87%" />
 </p>
 
 ---
