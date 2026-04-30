@@ -1,57 +1,59 @@
 # Hi, I'm Hemant 👋
 
-🚀 DevOps & Cloud Learner 
-📌 Currently doing **90 Days of DevOps Challenge**
+🚀 DevOps & Cloud Engineer in Progress  
+🏆 5× Hackathon Winner  
+📌 Currently building real-world systems through the **90 Days of DevOps Challenge**
 
 ---
 
-## 💻 What I'm Doing
+## ⚡ What I Do
 
-- Learning DevOps step by step  
-- Practicing Linux, Git, and Cloud tools  
-- Building real-world projects  
-- Sharing daily progress on GitHub & LinkedIn  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-dhavale-391a47353/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemantdhavale2003@gmail.com) 
+- ⚙️ Design & automate cloud infrastructure  
+- 🔁 Build CI/CD pipelines for faster deployments  
+- 🐳 Containerize and orchestrate applications  
+- 📊 Monitor systems using observability tools  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Cloud & OS:** AWS, Linux  
+**DevOps Tools:** Docker, Kubernetes, Terraform, Ansible  
+**CI/CD:** Jenkins, GitHub Actions  
+**Monitoring:** Prometheus, Grafana, ELK, OpenTelemetry  
+**Programming:** Python, Shell Scripting  
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
 
-- 90 Days of DevOps → Daily hands-on learning  
-- DevOps Notes → Commands, cheat sheets, and concepts  
-- Shell Scripts → Automation scripts  
-- Python Scripts → Practice projects  
+🔹 **90 Days of DevOps**  
+→ Daily hands-on labs covering Linux, Git, Docker, Kubernetes, CI/CD & Cloud  
+
+🔹 **CI/CD Pipelines**  
+→ Automated build, test, and deployment using Jenkins & GitHub Actions  
+
+🔹 **Infrastructure as Code**  
+→ Provisioned AWS infrastructure using Terraform & Ansible  
+
+🔹 **Automation Scripts**  
+→ Shell & Python scripts for system automation  
 
 ---
 
 ## 📈 Current Focus
 
-- DevOps & Cloud Computing  
-- CI/CD & Automation  
-- Real-world project building  
+- Scalable Cloud Infrastructure (AWS)  
+- Kubernetes & Container Orchestration  
+- CI/CD & DevOps Automation  
+- SRE & Observability  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-dhavale-391a47353/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemantdhavale2003@gmail.com)
 
 ---
 
@@ -65,6 +67,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Mindset
 
-I believe consistency beats talent. Showing up every day and learning step by step 🚀
+Consistency > Motivation  
+I show up every day, build, break, fix, and improve 🚀
